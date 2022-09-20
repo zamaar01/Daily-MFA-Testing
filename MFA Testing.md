@@ -1,4 +1,4 @@
-NaaS:
+
 NOC as a Service - Daily MFA Testing
 ===================================
 
